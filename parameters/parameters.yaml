@@ -1,0 +1,18 @@
+%YAML:1.0
+
+# bool  1/0: true/false
+use_loop_close: 1
+
+system_hold_on: 0
+remove_object_outlier: 0
+use_check_observability: 0
+draw_object_points: 0
+save_projected_image: 0
+
+# threshold
+point_max_outside_margin_ratio: 0.6
+
+# weigeht
+object_BA_weight: 0.1
+object_point_constraint_weight: 0.5
+# path

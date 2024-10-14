@@ -1,0 +1,10 @@
+Examples/
+KeyFrameTrajectory.txt
+build/*
+*~ 
+lib/
+*.so
+*.txt
+*.png
+*.jpg
+*.so
