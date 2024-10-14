@@ -1,7 +1,6 @@
 # Revisiting Geometric Constraint for Monocular Visual Quadric SLAM
 
 * We first open source the early version of the code．
-* For the readme, please temporarily refer to [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2).
 * A detailed readme will be released later.
 
 ## Abstract
